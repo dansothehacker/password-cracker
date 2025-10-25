@@ -1,4 +1,6 @@
 # password-cracker
+# paasowrd guesser
+# password hacking in python 
 import os
 from random import randint
 
